@@ -3,22 +3,20 @@
  * @description Allows you to use a Background Image without greatly altering the basic Layout of Discord
  * @author 6gx
  * @version 1
- * @website https://mwittrien.github.io/
- * @source https://github.com/mwittrien/BetterDiscordAddons/tree/master/Themes/BasicBackground/
- * @updateUrl https://mwittrien.github.io/BetterDiscordAddons/Themes/BasicBackground/BasicBackground.theme.css
+ * @website https://6gx.github.io/
+ * @source https://github.com/6gx/Jujutsu-Kaisen/
  */
 
 /* To change stuff like the colors, transparency and background image, change the variables inside the root {}, do NOT change the @import url() */
 
 @import url(https://6gx.github.io/Jujutsu-Kaisen/Jujutsu-Kaisen.css);
-
 :root {
 	--transparencycolor:			0,0,0;						/* default:	0,0,0																								*/
 	--transparencyalpha:			0.15;						/* default: 0.15				(general darkness of the app)													*/
 	--messagetransparency:			0.5;						/* default: 0.5					(additional shadows behind messages, set to 0 to remove boxes)					*/
 	--guildchanneltransparency:		0.15;						/* default: 0.15				(additional darkness for guild/channel list)									*/
 	--memberlisttransparency:		0.0;						/* default: 0.0					(additional darkness for member list)											*/
-	--accentcolor:					190,78,180;					/* default: 190,78,180			(RGB-format - blurple: 114,137,218 bd-blue: 58,113,193)							*/
+	--accentcolor:					51,153,51;					/* default: 190,78,180			(RGB-format - blurple: 114,137,218 bd-blue: 58,113,193)							*/
 	
 	--font:							Whitney, Helvetica Neue, Helvetica, Arial, sans-serif;		/* font used in most places														*/
 	--textshadow:					transparent;				/* default: transparent			(textshadow for text ontop of accentcolor nodes, ONLY accepts a color, no px)	*/
@@ -38,6 +36,4 @@
 	--backdropposition:				var(--backgroundposition);	/* default: center				(position of backdrop - values: [center/top/right/bottom/left])					*/
 	--backdropsize:					var(--backgroundsize);		/* default: cover				(sizefit of backdrop - values: [cover/contain/auto])							*/
 	--backdropblur:					var(--backgroundblur);		/* default: unset				(blur in px, only works when --backdrop is set to an image)						*/
-	
-	--version1_0_5:					none;						/* DO NOT CHANGE THIS VARIABLE , USED TO HIDE UPDATE NOTICE														*/
 }
