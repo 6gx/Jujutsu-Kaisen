@@ -3,6 +3,8 @@
 # Preview
 
 # Description
+- An awesome-cool theme for users who loves Jujutsu-Kaisen anime.
+- It allows you to use a Background Image without greatly altering the basic layout of Discord.
 
 # Installation Methods
 ## ___Using Snippet (recommended)___
@@ -10,3 +12,5 @@
 ## ___Local___
 
 # Credit
+- Basically, I skidded some codes of [mwittrien](https://github.com/mwittrien) to make a cool background theme for Jujutsu-Kaisen anime.
+- So, the credit goes to [6gx](https://github.com/mwittrien/6gx) and [mwittrien](https://github.com/mwittrien).
