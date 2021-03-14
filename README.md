@@ -1,9 +1,10 @@
 # Jujutsu-Kaisen theme [![CodeFactor](https://www.codefactor.io/repository/github/6gx/jujutsu-kaisen/badge)](https://www.codefactor.io/repository/github/6gx/jujutsu-kaisen) [![GitHub issues](https://img.shields.io/github/issues/6gx/jujutsu-kaisen?style=flat)](https://github.com/6gx/jujutsu-kaisen/issues) [![GitHub stars](https://img.shields.io/github/stars/6gx/jujutsu-kaisen?style=flat)](https://github.com/6gx/jujutsu-kaisen/stargazers)
+- A theme for users who loves Jujutsu-Kaisen anime.
 
 # Preview
 
 # Description
-- An awesome-cool theme for users who loves Jujutsu-Kaisen anime.
+- A cool and awesome theme for users who loves Jujutsu-Kaisen anime.
 - It allows you to use a Background Image without changing the basic layout of Discord.
 
 # Installation Methods
