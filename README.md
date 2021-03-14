@@ -5,5 +5,8 @@
 # Description
 
 # Installation Methods
+## ___Using Snippet (recommended)___
+
+## ___Local___
 
 # Credit
