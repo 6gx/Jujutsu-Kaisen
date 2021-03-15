@@ -16,8 +16,8 @@
 - Paste this snippet `@import url(https://6gx.github.io/Jujutsu-Kaisen/Jujutsu-Kaisen.css);`
 
 ### Better Discord
-- Go to themes
-- Open quickcss
+- Go to settings.
+- Open Custom CSS.
 - Paste this snippet `@import url(https://6gx.github.io/Jujutsu-Kaisen/Jujutsu-Kaisen.css);`
 
 ### Lightcord
