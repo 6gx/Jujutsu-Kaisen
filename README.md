@@ -39,8 +39,24 @@
 - And click on `Load Missing Themes` button.
 
 ### BetterDiscord
+- Download the [repository](https://github.com/6gx/Jujutsu-Kaisen). <br>
+  - Open the folder, where it got downloaded.
+  - Unzip it.
+- Open unzipped folder and copy this file ___Jujutsu-Kaisen.theme.css___
+- Paste this file in themes folder under BetterDiscord Folder.
+- Then refresh your client by pressing `Ctrl + R`.
+- Now, open themes secion in settings.
+- And turn on __Jujutsu-Kaisen__ theme.
 
 ### Lightcord
+- Download the [repository](https://github.com/6gx/Jujutsu-Kaisen). <br>
+  - Open the folder, where it got downloaded.
+  - Unzip it.
+- Open unzipped folder and copy this file ___Jujutsu-Kaisen.theme.css___
+- Paste this file in themes folder under Lightcord Folder.
+- Then refresh your client by pressing `Ctrl + R`.
+- Now, open themes secion in settings.
+- And turn on __Jujutsu-Kaisen__ theme.
 
 # Credit
 - Basically, I skidded some codes of [mwittrien](https://github.com/mwittrien) to make a cool background theme for Jujutsu-Kaisen anime.
