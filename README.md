@@ -60,4 +60,4 @@
 
 # Credit
 - Basically, I skidded some codes of [mwittrien](https://github.com/mwittrien) to make a cool background theme for Jujutsu-Kaisen anime.
-- So, the credit goes to me [6gx](https://github.com/mwittrien/6gx), [0lp](https://github.com/0lp) and [mwittrien](https://github.com/mwittrien).
+- So, the credit goes to me [6gx](https://github.com/mwittrien/6gx) , [0lp](https://github.com/0lp) and [mwittrien](https://github.com/mwittrien).
