@@ -10,8 +10,9 @@
 # Installation Methods
 ## ___Using Snippet (recommended)___
 ### Powercord
-- Go to themes
-- Open quickcss
+- Go to settings.
+- Go to themes.
+- Open quickcss.
 - Paste this snippet `@import url(https://6gx.github.io/Jujutsu-Kaisen/Jujutsu-Kaisen.css);`
 
 ### Better Discord
@@ -20,8 +21,8 @@
 - Paste this snippet `@import url(https://6gx.github.io/Jujutsu-Kaisen/Jujutsu-Kaisen.css);`
 
 ### Lightcord
-- Go to themes
-- Open quickcss
+- Go to settings.
+- Open Custom CSS.
 - Paste this snippet `@import url(https://6gx.github.io/Jujutsu-Kaisen/Jujutsu-Kaisen.css);`
 
 ## ___Local___
