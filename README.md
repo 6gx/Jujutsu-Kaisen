@@ -21,11 +21,6 @@
 - Open Custom CSS.
 - Paste this snippet `@import url(https://6gx.github.io/Jujutsu-Kaisen/Jujutsu-Kaisen.css);`
 
-### Lightcord
-- Go to settings.
-- Open Custom CSS.
-- Paste this snippet `@import url(https://6gx.github.io/Jujutsu-Kaisen/Jujutsu-Kaisen.css);`
-
 ## ___Local___
 ### Powercord
 - Download the [repository](https://github.com/6gx/Jujutsu-Kaisen). <br>
@@ -45,16 +40,6 @@
   - Unzip it.
 - Open unzipped folder and copy this file ___Jujutsu-Kaisen.theme.css___
 - Paste this file in themes folder under BetterDiscord Folder.
-- Then refresh your client by pressing `Ctrl + R`.
-- Now, open themes secion in settings.
-- And turn on __Jujutsu-Kaisen__ theme.
-
-### Lightcord
-- Download the [repository](https://github.com/6gx/Jujutsu-Kaisen). <br>
-  - Open the folder, where it got downloaded.
-  - Unzip it.
-- Open unzipped folder and copy this file ___Jujutsu-Kaisen.theme.css___
-- Paste this file in themes folder under Lightcord Folder.
 - Then refresh your client by pressing `Ctrl + R`.
 - Now, open themes secion in settings.
 - And turn on __Jujutsu-Kaisen__ theme.
