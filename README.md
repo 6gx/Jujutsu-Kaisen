@@ -2,7 +2,7 @@
 - A theme for users who loves Jujutsu-Kaisen anime.
 
 # Preview
-![image](https://imgur.com/mvB3oH0)
+![image](https://i.imgur.com/mvB3oH0.png)
 
 # Description
 - A cool and awesome theme for users who loves Jujutsu-Kaisen anime.
