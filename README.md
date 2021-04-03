@@ -16,7 +16,7 @@
 - Open quickcss.
 - Paste this snippet `@import url(https://6gx.github.io/Jujutsu-Kaisen/Jujutsu-Kaisen.css);`
 
-### Better Discord
+### Better Discord // Lightcord
 - Go to settings.
 - Open Custom CSS.
 - Paste this snippet `@import url(https://6gx.github.io/Jujutsu-Kaisen/Jujutsu-Kaisen.css);`
@@ -34,7 +34,7 @@
 - Then go to themes section under settings.
 - And click on `Load Missing Themes` button.
 
-### BetterDiscord
+### BetterDiscord // Lightcord
 - Download the [repository](https://github.com/6gx/Jujutsu-Kaisen). <br>
   - Open the folder, where it got downloaded.
   - Unzip it.
