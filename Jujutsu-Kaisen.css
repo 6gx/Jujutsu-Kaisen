@@ -891,7 +891,7 @@ body::before {
 }
 .content-1o0f9g {											/* divider				content								*/
 	background-color: rgba(var(--vtransparencycolor), 0.2);
-	color: rgb(var(--fontwhite3));
+	color: rgb(255,64,93);
 	width: 100%;
 	text-align: center;
 }
