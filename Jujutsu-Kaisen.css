@@ -230,24 +230,50 @@ body,														/* body														*/
 
 body::before {
 	content: "";
+	position: fixed;
 	top: 0;
 	left: 0;
 	right: 0;
 	bottom: 0;
-	position: fixed;
 	background: var(--vbackground) var(--vbackgroundposition)/var(--vbackgroundsize);
 	filter: blur(var(--vbackgroundblur));
 }
+.layer-3QrUeG ~ .layer-3QrUeG::before,
+.root-3R2ngo::before {
+	content: "";
+	position: absolute;
+	top: 0;
+	left: 0;
+	right: 0;
+	bottom: 0;
+	background: var(--vbackground) var(--vbackgroundposition)/var(--vbackgroundsize);
+	background-attachment: fixed;
+	filter: blur(var(--vbackgroundblur));
+	pointer-events: none;
+	z-index: -1;
+}
+.layer-3QrUeG ~ .layer-3QrUeG::after,
+.root-3R2ngo::after {
+	content: "";
+	position: absolute;
+	top: 0;
+	left: 0;
+	right: 0;
+	bottom: 0;
+	background-color: rgba(var(--vtransparencycolor), var(--vtransparencyalpha));
+	pointer-events: none;
+	z-index: -1;
+}
 #ace_settingsmenu_container,
 .uploadArea-3QgLtW,
-.backdropWithLayer-3_uhz4,
+.backdrop-29yll0,
 .backdrop-1wrmKB {
 	background: var(--vbackdrop) var(--vbackdropposition)/var(--vbackdropsize) !important;
 	filter: blur(var(--vbackdropblur));
 	opacity: 1;
 	animation: none;
 }
-.backdropWithLayer-3_uhz4 {
+.withLayer-RoELSG {
 	z-index: -1;
 }
 
