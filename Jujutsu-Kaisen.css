@@ -50,7 +50,7 @@
 	--fontwhite2: 					210,210,210;
 	--fontwhite3: 					170,170,170;
 	--fontwhite4: 					120,120,120;
-	--fontpink5:					250,221,225;
+	--fontwhite5:					250,221,225;
 }
 
 .theme-light, .theme-dark {
@@ -5310,7 +5310,7 @@ body::before {
 }
 #app-mount .datePicker--XZbmJ .react-datepicker__navigation {
 	background: transparent;
-	border-color: rgba(var(--fontwhite1), 0.5);
+	border-color: rgba(var(--fontwhite5), 0.5);
 	top: 30px;
 }
 #app-mount .datePicker--XZbmJ .react-datepicker__navigation::before {
@@ -5321,7 +5321,7 @@ body::before {
 	bottom: 0;
 	left: 0;
 	-webkit-mask: url(https://discordapp.com/assets/7619529e87dad31fd2ae83d9b9583e49.svg) center/6px 12px no-repeat;
-	background-color: rgb(var(--fontwhite1));
+	background-color: rgb(var(--fontwhite5));
 }
 #app-mount .datePicker--XZbmJ .react-datepicker__navigation--previous {
 	left: 30px;
@@ -5339,13 +5339,13 @@ body::before {
 #app-mount .datePicker--XZbmJ .react-datepicker__day:not(.react-datepicker__day--disabled):not(.react-datepicker__day--outside-month),
 #app-mount .datePicker--XZbmJ .datePickerHint-3Q1Udw .hint-165cR4,
 #app-mount .datePicker--XZbmJ .datePickerHint-3Q1Udw .hintValue-29ny8Z {
-	color: rgb(var(--fontwhite1));
+	color: rgb(var(--fontwhite5));
 }
 #app-mount .datePicker--XZbmJ .react-datepicker__day--disabled:not(.react-datepicker__day--outside-month) {
-	color: rgb(var(--fontwhite3));
+	color: rgb(var(--fontwhite5));
 }
 #app-mount .datePicker--XZbmJ .react-datepicker__day--outside-month {
-	color: rgb(var(--fontwhite4));
+	color: rgb(var(--fontwhite5));
 }
 #app-mount .datePicker--XZbmJ .datePickerHint-3Q1Udw {
 	margin: 0;
@@ -7472,10 +7472,10 @@ html .colorDefault-XdNdIp .bg-8df5St {
 }
 #app-mount #dv-main {
 	border-top-color: rgba(var(--vtransparencycolor), 0.2);
-	color: rgb(var(--fontpink5));
+	color: rgb(var(--fontwhite5));
 }
 #app-mount #dv-main .dv-date {
-	color: rgb(var(--fontpink5));
+	color: rgb(var(--fontwhite5));
 	opacity: 1;
 }
 
