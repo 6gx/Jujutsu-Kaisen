@@ -2745,10 +2745,12 @@ body::before {
 	background-color: rgba(var(--vtransparencycolor), 0.4);
 }
 
-#app-mount .experimentDate-2ymg99 {							/* experiments			date								*/
+#app-mount .experimentDate-1aRats {							/* experiments			date								*/
 	color: rgba(255,64,93,0);
 }
-
+.colorMuted-HdFt4q {
+    color: rebeccapurple;
+}
 
 /* ~~~~		12.		GUILDSETTINGS					~~~~ */
 
