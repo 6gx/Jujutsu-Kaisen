@@ -880,7 +880,7 @@ body::before {
 	background-color: rgb(var(--fontwhite3)) !important;
 }
 
-.divider-JfaTT5:not(.isUnread-1o0f9g) {						/* divider				time								*/
+.divider-JfaTT5:not(.isUnread-3Ef-o9) {						/* divider				time								*/
 	border-color: rgb(92,7,136);
 }
 .divider-JfaTT5.hasContent-1cNJDh {							/* divider				hascontent							*/
@@ -891,7 +891,7 @@ body::before {
 }
 .content-1o0f9g {											/* divider				content								*/
 	background-color: rgba(var(--vtransparencycolor), 0.2);
-	color: rgb(255,64,93);
+	color: rgb(95,7,137);
 	width: 100%;
 	text-align: center;
 }
