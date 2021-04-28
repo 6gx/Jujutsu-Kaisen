@@ -199,7 +199,7 @@ body,														/* body														*/
 #app-mount {												/* app-mount												*/
 	background-color: rgba(var(--vtransparencycolor), var(--vtransparencyalpha));
 }
-#app-mount .wrapper-1Rf91z {								/* guilds				container							*/
+#app-mount .wrapper-3NnKdC {								/* guilds				container							*/
 	background-color: rgba(var(--vtransparencycolor), calc(var(--vguildchanneltransparency) * 2));
 }
 #app-mount .sidebar-2K8pFh {								/* channels				container							*/
