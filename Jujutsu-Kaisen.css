@@ -50,7 +50,7 @@
 	--fontwhite2: 					210,210,210;
 	--fontwhite3: 					170,170,170;
 	--fontwhite4: 					120,120,120;
-	--fontwhite5:					250,221,225;
+	--fontwhite5:					255,64,93;
 }
 
 .theme-light, .theme-dark {
@@ -881,7 +881,7 @@ body::before {
 }
 
 .divider-JfaTT5:not(.isUnread-3Ef-o9) {						/* divider				time								*/
-	border-color: rgba(var(--fontwhite1), 0.2);
+	border-color: rgba(var(--fontwhite5), 0.2);
 }
 .divider-JfaTT5.hasContent-1cNJDh {							/* divider				hascontent							*/
 	border-color: transparent;
@@ -2118,7 +2118,7 @@ body::before {
 }
 #app-mount .collapsedTimestamp-2gjDIM,						/* newscard				timestamp							*/
 #app-mount .openTimestamp-sTgPmn {
-	color: rgb(var(--fontwhite3));
+	color: rgb(255,64,93);
 }
 #app-mount .title-i-qCkH {									/* newscard				title								*/
 	color: rgb(var(--fontwhite1));
