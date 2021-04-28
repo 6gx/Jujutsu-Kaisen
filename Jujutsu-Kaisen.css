@@ -50,7 +50,7 @@
 	--fontwhite2: 					210,210,210;
 	--fontwhite3: 					170,170,170;
 	--fontwhite4: 					120,120,120;
-	--fontwhite5:					250,221,225;
+	--fontpink5:					250,221,225;
 }
 
 .theme-light, .theme-dark {
@@ -7472,10 +7472,10 @@ html .colorDefault-XdNdIp .bg-8df5St {
 }
 #app-mount #dv-main {
 	border-top-color: rgba(var(--vtransparencycolor), 0.2);
-	color: rgb(var(--fontwhite5));
+	color: rgb(var(--fontpink5));
 }
 #app-mount #dv-main .dv-date {
-	color: rgb(var(--fontwhite5));
+	color: rgb(var(--fontpink5));
 	opacity: 1;
 }
 
