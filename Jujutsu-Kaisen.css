@@ -2746,7 +2746,7 @@ body::before {
 }
 
 #app-mount .experimentDate-1aRats {							/* experiments			date								*/
-	color: rgba(255,64,93,0);
+	color: rgb(255,64,93);
 }
 .colorMuted-HdFt4q {
     color: rebeccapurple;
