@@ -1185,7 +1185,7 @@ body::before {
 .timestampCozy-1HNQR2,										/* message				timestamp							*/
 .timestampCompact-29LLPQ,
 .timestamp-1E3uAL {
-	color: rgb(var(--fontwhite3));
+	color: rgb(255,64,93);
 }
 
 .reaction-1hd86g {											/* message				reaction							*/
@@ -2810,7 +2810,7 @@ body::before {
 	color: rgb(var(--fontwhite1));
 }
 #app-mount .timestamp-1mruiI {								/* auditlogs			timestamp							*/
-	color: rgb(var(--fontwhite4));
+	color: rgb(255,64,93);
 }
 #app-mount .expandForeground-1nZ4VR {						/* auditlogs			expandarrow							*/
 	stroke: rgb(var(--fontwhite2));
