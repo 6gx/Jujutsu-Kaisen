@@ -1258,7 +1258,7 @@ body::before {
 .after_inlineCode-1KfVgj,
 .before_inlineCode-1G9rTK,
 .inlineCode-2ngu6Y {
-	background-color: rgba(var(--vtransparencycolor), 0.4);
+	background-color: #0e0d0e;
 }
 .markup-2BOw-j .hljs {										/* messageelement		hljs								*/
 	color: rgb(var(--fontwhite2));
