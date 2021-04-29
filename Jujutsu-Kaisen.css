@@ -1250,6 +1250,23 @@ body::before {
 	background-color: #0e0d0e;
 	border-color: #43b581;
 }
+.powercord-codeblock-copy-btn {									/* messageelement		code copy-button
+    color: #fff;
+    border-radius: 4px;
+    line-height: 20px;
+    padding: 0 10px;
+    font-family: 'Raleway', sans-serif;
+    font-size: .8em;
+    text-transform: uppercase;
+    font-weight: bold;
+    margin: 3px;
+    background: #43b581;
+    position: absolute;
+    right: 0 !important;
+    bottom: 0 !important;
+    opacity: 0;
+    transition: .3s;
+}
 .markup-2BOw-j pre {										/* messageelement		pre									*/
 	background-color: rgba(var(--vtransparencycolor), 0.4);
 	border-color: rgba(var(--vtransparencycolor), 0.1);
@@ -1258,7 +1275,7 @@ body::before {
 .after_inlineCode-1KfVgj,
 .before_inlineCode-1G9rTK,
 .inlineCode-2ngu6Y {
-	background-color: #0e0d0e;
+	background-color: rgb(25,14,25);
 }
 .markup-2BOw-j .hljs {										/* messageelement		hljs								*/
 	color: rgb(var(--fontwhite2));
