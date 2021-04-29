@@ -1250,7 +1250,7 @@ body::before {
 	background-color: #0e0d0e;
 	border-color: #43b581;
 }
-.powercord-codeblock-copy-btn {									/* messageelement		code copy-button
+.powercord-codeblock-copy-btn {									/* messageelement		code copy-button						*/
     color: #fff;
     border-radius: 4px;
     line-height: 20px;
