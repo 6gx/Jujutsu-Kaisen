@@ -4487,14 +4487,6 @@ body::before {
 	pointer-events: none;
 	z-index: -1;
 }
-span.downloadSection-3DLWUO.formattedSize-2PXVec {							/* addtextfile size popout 					*/
-    padding-left: 2px;
-    color: #14f7e7;
-    text-align: right;
-    -webkit-box-flex: 1;
-    -ms-flex: 1 0 auto;
-    flex: 1 0 auto;
-}
 
 /* ----		14.1.	CONTEXTMENU						---- */
 
