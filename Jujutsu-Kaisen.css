@@ -4495,24 +4495,6 @@ span.downloadSection-3DLWUO.formattedSize-2PXVec {							/* addtextfile size pop
     -ms-flex: 1 0 auto;
     flex: 1 0 auto;
 }
-.footer-2yA7Ep {							/* addtextfile footer popout 					*/
-    background-color: transparent;
-    -webkit-box-pack: end;
-    -ms-flex-pack: end;
-    justify-content: flex-end;
-    height: 40px;
-    border: 1px solid var(--background-secondary-alt);
-    border-top: 0;
-    -webkit-box-sizing: border-box;
-    box-sizing: border-box;
-    border-radius: 0 0 4px 4px;
-    padding: 0 10px;
-    font-size: 0.875rem;
-    min-width: 0;
-}
-.downloadSection-3DLWUO {							/* addtextfile download popout 					*/
-    color: rgb(205, 205, 205);
-}
 
 /* ----		14.1.	CONTEXTMENU						---- */
 
