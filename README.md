@@ -26,12 +26,9 @@
 - Download the [repository](https://github.com/6gx/Jujutsu-Kaisen). <br>
   - Open the folder, where it got downloaded.
   - Unzip it.
-  - Go to this [website](https://convert.creatable.cafe/) and convert this file ___Jujutsu-Kaisen.theme.css___
 - Now, go to themes folder under powercord folder.
-- Make a sub-folder and paste these files:- <br>
-  -  ___Jujutsu-Kaisen.theme.css___ from the unzipped folder.
-  - `manifest.json` which you got from this [website](https://convert.creatable.cafe/).
-- Then go to themes section under settings.
+- Make a sub-folder and paste the unzipped file. <br>
+- Then go to themes section under settings in Powercord app.
 - And click on `Load Missing Themes` button.
 
 ### BetterDiscord // Lightcord
