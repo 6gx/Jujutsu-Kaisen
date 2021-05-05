@@ -3,6 +3,7 @@
 
 # Preview
 ![image](https://cdn.discordapp.com/attachments/819228300165120023/828010604798148618/unknown.png)
+![image](https://media.discordapp.net/attachments/819228300165120023/839471264015712256/unknown.png)
 
 # Description
 - A cool and awesome theme for users who loves Jujutsu-Kaisen anime.
