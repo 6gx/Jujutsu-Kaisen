@@ -11,12 +11,19 @@
 
 # Installation Methods
 
-### Powercord
+## Powercord
+### ___Using Snippet (recommended)___
+- Paste this snippet `@import url(https://6gx.github.io/Jujutsu-Kaisen/Jujutsu-Kaisen.css);` in your quickcss.
+#### ____OR____
+- Paste this line in your cmd.
 ```
 git clone https://github.com/6gx/Jujutsu-Kaisen
 ```
 
-### BetterDiscord
+## BetterDiscord
+### ___Using Snippet (recommended)___
+- Paste this snippet `@import url(https://6gx.github.io/Jujutsu-Kaisen/Jujutsu-Kaisen.css);` in your custom css.
+#### ____OR____
 - Visit [this](https://raw.githubusercontent.com/6gx/Jujutsu-Kaisen/main/Jujutsu-Kaisen.theme.css) url.
 - Press <kbd>Ctrl</kbd> + <kbd>S</kbd> (Windows) or <kbd>Cmd</kbd> + <kbd>S</kbd> (Mac OS).
 - Drag the downloaded file into your theme directory.
