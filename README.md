@@ -10,37 +10,16 @@
 - It allows you to use a Background Image without changing the basic layout of Discord.
 
 # Installation Methods
-## ___Using Snippet (recommended)___
+
 ### Powercord
-- Go to settings.
-- Go to themes.
-- Open quickcss.
-- Paste this snippet `@import url(https://6gx.github.io/Jujutsu-Kaisen/Jujutsu-Kaisen.css);`
+```
+git clone https://github.com/6gx/Jujutsu-Kaisen
+```
 
-### Better Discord // Lightcord
-- Go to settings.
-- Open Custom CSS.
-- Paste this snippet `@import url(https://6gx.github.io/Jujutsu-Kaisen/Jujutsu-Kaisen.css);`
-
-## ___Local___
-### Powercord
-- Download the [repository](https://github.com/6gx/Jujutsu-Kaisen). <br>
-  - Open the folder, where it got downloaded.
-  - Unzip it.
-- Now, go to themes folder under powercord folder.
-- Make a sub-folder and paste the unzipped file. <br>
-- Then go to themes section under settings in Powercord app.
-- And click on `Load Missing Themes` button.
-
-### BetterDiscord // Lightcord
-- Download the [repository](https://github.com/6gx/Jujutsu-Kaisen). <br>
-  - Open the folder, where it got downloaded.
-  - Unzip it.
-- Open unzipped folder and copy this file ___Jujutsu-Kaisen.theme.css___
-- Paste this file in themes folder under BetterDiscord Folder.
-- Then refresh your client by pressing `Ctrl + R`.
-- Now, open themes secion in settings.
-- And turn on __Jujutsu-Kaisen__ theme.
+### BetterDiscord
+- Visit [this](https://raw.githubusercontent.com/6gx/Jujutsu-Kaisen/main/Jujutsu-Kaisen.theme.css) url.
+- Press <kbd>Ctrl</kbd> + <kbd>S</kbd> (Windows) or <kbd>Cmd</kbd> + <kbd>S</kbd> (Mac OS).
+- Drag the downloaded file into your theme directory.
 
 # Credit
 - Basically, I skidded some codes of [mwittrien](https://github.com/mwittrien) to make a cool background theme for Jujutsu-Kaisen anime.
